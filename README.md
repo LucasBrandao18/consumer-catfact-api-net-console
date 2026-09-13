@@ -36,6 +36,3 @@ original da resposta, conforme o exemplo da atividade.
 O modelo `CatFact` representa os campos `fact` e `length` da resposta.
 A saída exibe apenas o fato, como solicitado no item b). O programa também
 informa erros de conexão, tempo limite ou resposta inválida.
-
-Os itens **c)** (publicar no GitHub) e **d)** (entregar no Google Classroom)
-não foram realizados, conforme solicitado.
